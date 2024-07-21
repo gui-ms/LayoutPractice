@@ -1,6 +1,6 @@
 import Link from "next/link";
 import MenuItem from "./MenuItem";
-import { IconHexagon1, IconHexagon2, IconHexagon3 } from "@tabler/icons-react";
+import { IconHexagon1, IconHexagon2, IconHexagon3, IconListCheck } from "@tabler/icons-react";
 
 export default function MainMenu() {
 
@@ -18,6 +18,10 @@ export default function MainMenu() {
                 <MenuItem link='/page' >
                     <IconHexagon3/>
                     <span>Go to Third Page </span>
+                </MenuItem>
+                <MenuItem link='/fourth' >
+                    <IconListCheck/>
+                    <span>Go to Fourth Page (State Management) </span>
                 </MenuItem>
             </nav>
         </aside>
