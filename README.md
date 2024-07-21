@@ -23,3 +23,7 @@ Little project using nextJs, react, typescript in order to get a better grasp of
 
 - Third exercise:
   ![image](https://github.com/user-attachments/assets/da0818f7-853d-4fac-857b-12ff40e44a9e)
+
+- Fourth exercise:
+  ![image](https://github.com/user-attachments/assets/a0b983c3-5848-4c5f-8263-f818bd1856a3)
+
