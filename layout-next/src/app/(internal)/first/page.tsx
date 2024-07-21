@@ -1,4 +1,3 @@
-import PageTemplate from "@/components/template/Page";
 
 export default function First (){
 
@@ -24,7 +23,6 @@ export default function First (){
     }
 
     return (
-        <PageTemplate>
             <div>
                 {title}
                 <div className="flex flex-col">
@@ -42,6 +40,5 @@ export default function First (){
                     </span>
                 </div>
             </div>
-        </PageTemplate>
     )
 }
